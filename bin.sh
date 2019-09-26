@@ -22,3 +22,4 @@ ln -s /usr/python37/bin/python3 /usr/bin/python3
 pip3 install pandas
 pip3 install ccxt
 pip3 install bitfinex-tencars
+echo "安装成功"
