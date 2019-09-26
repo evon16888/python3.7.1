@@ -20,6 +20,7 @@ ln -s /usr/python37/bin/pip3 /usr/bin/pip3
 ln -s /usr/python37/bin/python3 /usr/bin/python3
 
 # 相关包安装
+pip3 install --upgrade pip
 pip3 install pandas
 pip3 install ccxt
 pip3 install bitfinex-tencars
