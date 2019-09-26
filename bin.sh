@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 yum -y install zlib\*
 yum install libffi-devel -y
 yum -y groupinstall "Development tools"
