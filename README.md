@@ -8,7 +8,7 @@
 
 这个是双python模式，即不影响原来的python2.7,如果我们要执行文件的时候想用python3或安装pip就参考下面
 
-python3 test.py
+    python3 test.py
 
-pip3 install xxxxx
+    pip3 install xxxxx
     
