@@ -15,6 +15,7 @@ rpm -aq|grep openssl
 make
 make install
 
+# 增加软链接
 ln -s /usr/python37/bin/pip3 /usr/bin/pip3
 ln -s /usr/python37/bin/python3 /usr/bin/python3
 
