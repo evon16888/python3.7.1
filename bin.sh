@@ -24,4 +24,5 @@ pip3 install --upgrade pip
 pip3 install pandas
 pip3 install ccxt
 pip3 install bitfinex-tencars
+pip3 install mysql
 echo "安装成功"
